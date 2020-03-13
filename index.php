@@ -6,7 +6,7 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 require ('vendor/autoload.php');
 
 $instance = new EtherpadLite\Client(
-    '6d91130a6c05a660b00b4fb16b30dd9b15d02145bc8012e2972cb88f2a51616f',
+    'ca5ca919b6bf1e3cc441ff261a766cc1975f64dd0d77a934f72e224ef89ef2f9',
     'http://localhost:9001/api');
 
 
